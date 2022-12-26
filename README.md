@@ -1,7 +1,7 @@
 <img src="https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
 
 <h1 align="center">Hi 👋, I'm Facundo</h1>
-<h3 align="center">A musician and a developer in progress from Buenos Aires, Argentina.</h3>
+<h3 align="center">A developer in progress and a musician from Buenos Aires, Argentina.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
